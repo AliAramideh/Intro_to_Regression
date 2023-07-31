@@ -6,5 +6,7 @@ The purpose of this project is use all regression methods such as:
 - Multiple Linear Regression
 - Polynomial Regression
 - Non-Linear Regression
+
 in our data and comparing regression models.
+
 After this project you will underestand implementing all regression methods using python.
